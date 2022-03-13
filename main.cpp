@@ -69,7 +69,7 @@ int prec(char c) { //Returns integer for corresponding character
     } return -1;
 }
 
-int evaluatePostfix(string s){
+int evaluatePostfix(string s){ //evaluate value of a postfix expression
     char c = s.back();
     s.pop_back();
     int num1,num2;
