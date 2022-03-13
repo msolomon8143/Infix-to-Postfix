@@ -4,6 +4,11 @@
  * Class: COP4415.01
  * Date: 3/5/22
  * *******************************************/
+/********************************************
+ * Sample Test Cases
+ * (4+8)*2
+ * 3+2∗(4−1)
+ * *******************************************/
 // CPP program to convert infix to Postfix
 #include <iostream>
 #include <string>
